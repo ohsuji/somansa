@@ -1,3 +1,5 @@
 # somansa
+**HTML / CSS 연습**
+grid system을 이용
 
-grid system을 이용한 사이트 연습
+### DEMO :
